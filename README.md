@@ -1,24 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>README</title>
-<style>
-    /* Set background color */
-    body {
-        background-color: #ecfff8;
-    }
-
-    /* Resize icons */
-    .icon {
-        width: 50px; /* Adjust as needed */
-        height: auto; /* Maintain aspect ratio */
-    }
-</style>
-</head>
-<body>
-
 <!-- Visitor Badge -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=maithtruong.maithtruong" />
 
@@ -37,11 +16,8 @@
 <!-- Information Section -->
 <div align="center">
   🏫 I'm currently in my final year at UEH University. <br>
-  
   📝 I'm currently learning **Hadoop and AWS** <br>
-  
   🎯 I'm open for **Data Analyst** and **Data Engineer** roles <br>
-  
   🎸 I'm a music enthusiast, a music producer and a guitar player! <br>
 </div>
 
@@ -65,38 +41,38 @@
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-    <img class="icon" src="svg/python.svg" />
-    <img class="icon" src="svg/r.svg" />
+    <img src="svg/python.svg" width="50" height="50" />
+    <img src="svg/r.svg" width="50" height="50" />
 </div>
 
 <div align="center">
-    <img class="icon" src="svg/powerbi.svg" />
-    <img class="icon" src="svg/tableau.svg" />
-    <img class="icon" src="svg/microsoftexcel.svg" />
+    <img src="svg/powerbi.svg" width="50" height="50" />
+    <img src="svg/tableau.svg" width="50" height="50" />
+    <img src="svg/microsoftexcel.svg" width="50" height="50" />
 </div>
 
 <div align="center">
-    <img class="icon" src="svg/scikitlearn.svg" />
-    <img class="icon" src="svg/pandas.svg" />
-    <img class="icon" src="svg/numpy.svg" />
+    <img src="svg/scikitlearn.svg" width="50" height="50" />
+    <img src="svg/pandas.svg" width="50" height="50" />
+    <img src="svg/numpy.svg" width="50" height="50" />
 </div>
 
 <div align="center">
-    <img class="icon" src="svg/apache.svg" />
-    <img class="icon" src="svg/apachecassandra.svg" />
-    <img class="icon" src="svg/apacheflink.svg" />
-    <img class="icon" src="svg/apachehadoop.svg" />
-    <img class="icon" src="svg/apachehive.svg" />
-    <img class="icon" src="svg/apachekafka.svg" />
-    <img class="icon" src="svg/apachespark.svg" />
-    <img class="icon" src="svg/apachestorm.svg" />
+    <img src="svg/apache.svg" width="50" height="50" />
+    <img src="svg/apachecassandra.svg" width="50" height="50" />
+    <img src="svg/apacheflink.svg" width="50" height="50" />
+    <img src="svg/apachehadoop.svg" width="50" height="50" />
+    <img src="svg/apachehive.svg" width="50" height="50" />
+    <img src="svg/apachekafka.svg" width="50" height="50" />
+    <img src="svg/apachespark.svg" width="50" height="50" />
+    <img src="svg/apachestorm.svg" width="50" height="50" />
 </div>
 
 <div align="center">
-    <img class="icon" src="svg/amazonec2.svg" />
-    <img class="icon" src="svg/amazonroute53.svg" />
-    <img class="icon" src="svg/amazoncloudwatch.svg" />
-    <img class="icon" src="svg/amazons3.svg" />
+    <img src="svg/amazonec2.svg" width="50" height="50" />
+    <img src="svg/amazonroute53.svg" width="50" height="50" />
+    <img src="svg/amazoncloudwatch.svg" width="50" height="50" />
+    <img src="svg/amazons3.svg" width="50" height="50" />
 </div>
 
 <!-- Stats Section -->
@@ -104,6 +80,3 @@
 <div align="center">
   <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-</body>
-</html>
