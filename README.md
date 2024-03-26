@@ -12,6 +12,7 @@
 <!-- Sub Heading -->
 <h3 align="center">I'm a passionate Data Science major from Viet Nam. 🔴⭐</h3>
 
+ <hr/>
 
 <!-- Information Section -->
 <div align="center">
