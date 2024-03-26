@@ -16,13 +16,13 @@
 <!-- Information Section -->
 <div align="center">
   🏫 I'm currently in my final year at UEH University. <br/>
-  ###
+  <h3></h3>
   📝 I'm currently learning <strong>Hadoop and AWS</strong> <br/>
-  ###
+  <h3></h3>
   🎯 I'm open for <strong>Data Analyst</strong> and <strong>Data Engineer</strong> roles <br/>
-  ###
+  <h3></h3>
   🎸 I'm a music enthusiast, a music producer and a guitar player! <br/>
-  ###
+  <h3></h3>
 </div>
 
 <!-- Links Section -->
