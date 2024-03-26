@@ -73,11 +73,11 @@
     <img src="svg/apachestorm.svg" width="50" height="50" />
 </div>
 
-<div align="center">
-    <img src="svg/amazonec2.svg" width="50" height="50" />
-    <img src="svg/amazonroute53.svg" width="50" height="50" />
-    <img src="svg/amazoncloudwatch.svg" width="50" height="50" />
-    <img src="svg/amazons3.svg" width="50" height="50" />
+<div align="center" style="background-color: #ecfff8; padding: 10px;">
+    <img src="https://simpleicons.org/icons/amazonec2.svg" width="50" height="50" />
+    <img src="https://simpleicons.org/icons/amazonroute53.svg" width="50" height="50" />
+    <img src="https://simpleicons.org/icons/amazoncloudwatch.svg" width="50" height="50" />
+    <img src="https://simpleicons.org/icons/amazons3.svg" width="50" height="50" />
 </div>
 
 <!-- Stats Section -->
