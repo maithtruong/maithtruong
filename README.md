@@ -63,7 +63,7 @@
 </div>
 
 <div align="center">
-    <img src="svg/apache.svg" width="50" height="50" />
+    <img src="svg/apache.svg" width="50" height="50" fill="red" />
     <img src="svg/apachecassandra.svg" width="50" height="50" />
     <img src="svg/apacheflink.svg" width="50" height="50" />
     <img src="svg/apachehadoop.svg" width="50" height="50" />
