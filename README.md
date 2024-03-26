@@ -83,5 +83,6 @@
 <!-- Stats Section -->
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api?username=maithtruong&show_icons=true&theme=radical&bg_color=4c191b alt="top langs" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api?username=maithtruong&show_icons=true&theme=radical&bg_color=4c191b" alt="top langs" />
+
 </div>
