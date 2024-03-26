@@ -16,8 +16,8 @@
 <!-- Information Section -->
 <div align="center">
   🏫 I'm currently in my final year at UEH University. <br>
-  📝 I'm currently learning **Hadoop and AWS** <br>
-  🎯 I'm open for **Data Analyst** and **Data Engineer** roles <br>
+  📝 I'm currently learning <strong>Hadoop and AWS</strong> <br>
+  🎯 I'm open for <strong>Data Analyst</strong> and <strong>Data Engineer</strong> roles <br>
   🎸 I'm a music enthusiast, a music producer and a guitar player! <br>
 </div>
 
