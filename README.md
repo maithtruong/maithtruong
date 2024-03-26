@@ -73,7 +73,7 @@
     <img src="svg/apachestorm.svg" width="50" height="50" />
 </div>
 
-<div align="center" style="background-color: #ecfff8; padding: 10px;">
+<div align="center" style="background: #ecfff8;">
     <img src="https://simpleicons.org/icons/amazonec2.svg" width="50" height="50" />
     <img src="https://simpleicons.org/icons/amazonroute53.svg" width="50" height="50" />
     <img src="https://simpleicons.org/icons/amazoncloudwatch.svg" width="50" height="50" />
