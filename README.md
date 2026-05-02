@@ -47,8 +47,8 @@ I'm into everything data — pipelines, models, dashboards. My focus: **Customer
 | Project | Description | Tools |
 |---|---|---|
 | [📉 databricks-data-warehouse](https://github.com/maithtruong/databricks-data-warehouse) | Build a Data Warehouse in Databricks using a Medallion architecture (Bronze–Silver–Gold), including ETL pipelines and dbt testing workflows. | Databricks, SQL, dbt |
-| [📈 ai-customer-growth-retention](https://github.com/maithtruong/recommender-systems-bootcamp) | Perform RFM customer segmentation and model churn, survival, and customer lifetime value (CLV) using transactional data to identify high-priority customer groups. | Python, Scikit-learn, Lifetimes, Pandas |
-| [💡 recommender-systems-bootcamp](https://github.com/YOUR_USERNAME/customer-segmentation) | End-to-end recommender system pipeline covering data preprocessing, ANN-based retrieval, transformer ranking, offline evaluation, and REST API serving. | Python, PyTorch, FastAPI, FAISS |
+| [📈 ai-customer-growth-retention](https://github.com/maithtruong/ai-customer-growth-retention/tree/exp) | Perform RFM customer segmentation and model churn, survival, and customer lifetime value (CLV) using transactional data to identify high-priority customer groups. | Python, Scikit-learn, Lifetimes, Pandas |
+| [💡 recommender-systems-bootcamp](https://github.com/maithtruong/recommender-systems-bootcamp) | End-to-end recommender system pipeline covering data preprocessing, ANN-based retrieval, transformer ranking, offline evaluation, and REST API serving. | Python, PyTorch, FastAPI, FAISS |
 | [🤖 sales_pipeline](https://github.com/maithtruong/sales_pipeline) | Modern ELT data pipeline using dbt, Snowflake, and Apache Airflow to transform and orchestrate Snowflake TPCH sample datasets. | dbt, Snowflake, Apache Airflow |
 | [🌸 rag-chatbot](https://github.com/maithtruong/flowershop_rag) | Simple RAG chatbot for flower recommendations using vector search, Vietnamese embeddings, and a lightweight Streamlit interface. | LangChain, Streamlit, Vector Database, LLM |
 
