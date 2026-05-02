@@ -9,7 +9,7 @@ I'm into everything data — pipelines, models, dashboards. My focus: **Customer
 
 ## 📊 GitHub Stats
 
-[![Mai's GitHub stats](https://github-readme-stats.vercel.app/api?username=maithtruong)](https://github.com/anuraghazra/github-readme-stats)
+![Mai's GitHub stats](https://github-readme-stats.vercel.app/api?username=maithtruong)
 
 ---
 
