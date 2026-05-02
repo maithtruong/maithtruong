@@ -1,88 +1,61 @@
-<!-- Visitor Badge -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=maithtruong.maithtruong" />
+# Hey, I'm Mai 👋
 
+Data Scientist based in 📍 **Hannover, Germany**.
+I'm into everything data — pipelines, models, dashboards. My focus: **Customer Analytics** & **Business Intelligence**.
 
-<!-- Main Heading -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&pause=1000&color=F70064&center=true&random=false&width=435&lines=Welcome!+💐;I'm+Hong+Mai." alt="Typing SVG" />
-  </a>
-</h1>
+🟢 **Currently open to part-time Data Science roles — Hannover or remote**
 
-<!-- Sub Heading -->
-<h3 align="center">I'm a passionate Data Science major from Viet Nam. 🔴⭐</h3>
+---
 
- <hr/>
+## 📊 GitHub Stats
 
-<!-- Information Section -->
-<div align="center">
-  🏫 I'm currently in my final year at UEH University. <br/>
-  <h3></h3>
-  📝 I'm currently learning <strong>Hadoop and AWS</strong> <br/>
-  <h3></h3>
-  🎯 I'm open for <strong>Data Analyst</strong> and <strong>Data Engineer</strong> roles <br/>
-  <h3></h3>
-  🎸 I'm a music enthusiast, a music producer and a guitar player! <br/>
-  <h3></h3>
-</div>
+[![Mai's GitHub stats](https://github-readme-stats.vercel.app/api?username=maithtruong)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Links Section -->
-<div align="center"> 
-  <a href="mailto:maithtruong@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/janette-truong/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://drive.google.com/file/d/182tcCcPpD--GJIIgigBlmYG8P4fPQCrL/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+---
 
- <hr/>
+## 🛠️ Tech Stack
 
-<!-- Languages & Frameworks Section -->
+**Data Engineering**
 
- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 
-<div align="center">
-    <img src="svg/python.svg" width="50" height="50" />
-    <img src="svg/r.svg" width="50" height="50" />
-</div>
+**Machine Learning**
 
-<div align="center">
-    <img src="svg/powerbi.svg" width="50" height="50" />
-    <img src="svg/tableau.svg" width="50" height="50" />
-    <img src="svg/microsoftexcel.svg" width="50" height="50" />
-</div>
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-534AB7?style=flat&logoColor=white)
+![RAG Chatbots](https://img.shields.io/badge/RAG%20Chatbots-1D9E75?style=flat&logoColor=white)
 
-<div align="center">
-    <img src="svg/scikitlearn.svg" width="50" height="50" />
-    <img src="svg/pandas.svg" width="50" height="50" />
-    <img src="svg/numpy.svg" width="50" height="50" />
-</div>
+**BI & Analytics**
 
-<div align="center">
-    <img src="svg/apache.svg" width="50" height="50"/>
-    <img src="svg/apachecassandra.svg" width="50" height="50" />
-    <img src="svg/apacheflink.svg" width="50" height="50" />
-    <img src="svg/apachehadoop.svg" width="50" height="50" />
-    <img src="svg/apachehive.svg" width="50" height="50" />
-    <img src="svg/apachekafka.svg" width="50" height="50" />
-    <img src="svg/apachespark.svg" width="50" height="50" />
-    <img src="svg/apachestorm.svg" width="50" height="50" />
-</div>
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-<div align="center">
-    <img src="https://simpleicons.org/icons/amazonec2.svg" width="50" height="50" />
-    <img src="https://simpleicons.org/icons/amazonroute53.svg" width="50" height="50" />
-    <img src="https://simpleicons.org/icons/amazoncloudwatch.svg" width="50" height="50" />
-    <img src="https://simpleicons.org/icons/amazons3.svg" width="50" height="50" />
-</div>
+---
 
-<!-- Stats Section -->
-<h2 align="center">⚡ Stats ⚡</h2>
-<div align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maithtruong&show_icons=true&theme=radical&bg_color=4c191b" alt="top langs" />
+## 🚀 Featured Projects
 
-</div>
+| Project | Description | Tools |
+|---|---|---|
+| [📉 databricks-data-warehouse](https://github.com/maithtruong/databricks-data-warehouse) | Build a Data Warehouse in Databricks using a Medallion architecture (Bronze–Silver–Gold), including ETL pipelines and dbt testing workflows. | Databricks, SQL, dbt |
+| [📈 ai-customer-growth-retention](https://github.com/maithtruong/recommender-systems-bootcamp) | Perform RFM customer segmentation and model churn, survival, and customer lifetime value (CLV) using transactional data to identify high-priority customer groups. | Python, Scikit-learn, Lifetimes, Pandas |
+| [💡 recommender-systems-bootcamp](https://github.com/YOUR_USERNAME/customer-segmentation) | End-to-end recommender system pipeline covering data preprocessing, ANN-based retrieval, transformer ranking, offline evaluation, and REST API serving. | Python, PyTorch, FastAPI, FAISS |
+| [🤖 sales_pipeline](https://github.com/maithtruong/sales_pipeline) | Modern ELT data pipeline using dbt, Snowflake, and Apache Airflow to transform and orchestrate Snowflake TPCH sample datasets. | dbt, Snowflake, Apache Airflow |
+| [🌸 rag-chatbot](https://github.com/maithtruong/flowershop_rag) | Simple RAG chatbot for flower recommendations using vector search, Vietnamese embeddings, and a lightweight Streamlit interface. | LangChain, Streamlit, Vector Database, LLM |
+
+---
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/mai-th-truong/))
+[![Email](https://img.shields.io/badge/EA4335?style=flat&logo=gmail&logoColor=white)](mailto:maitruong.analytics@gmail.com)
+[![Website](maianalytics.com)
