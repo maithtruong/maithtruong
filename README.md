@@ -9,7 +9,7 @@ I'm into everything data — pipelines, models, dashboards. My focus: **Customer
 
 ## 📊 GitHub Stats
 
-![Mai's GitHub stats](https://github-readme-stats.vercel.app/api?username=maithtruong)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maithtruong&theme=default)
 
 ---
 
@@ -58,4 +58,4 @@ I'm into everything data — pipelines, models, dashboards. My focus: **Customer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mai-th-truong/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:maitruong.analytics@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://maianalytics.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://www.maianalytics.com/)
