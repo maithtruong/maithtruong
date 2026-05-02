@@ -56,6 +56,6 @@ I'm into everything data — pipelines, models, dashboards. My focus: **Customer
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/mai-th-truong/))
-[![Email](https://img.shields.io/badge/EA4335?style=flat&logo=gmail&logoColor=white)](mailto:maitruong.analytics@gmail.com)
-[![Website](maianalytics.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mai-th-truong/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:maitruong.analytics@gmail.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://maianalytics.com)
